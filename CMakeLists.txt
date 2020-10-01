@@ -19,11 +19,6 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
 	DIRECTORY 
 	msg
-	FILES
-	DispatchedToken.msg
-	Goal.msg
-	Observation.msg
-	DispatchedTokenFeedback.msg
 )
 generate_messages(DEPENDENCIES std_msgs)
 
