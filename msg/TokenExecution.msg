@@ -1,7 +1,4 @@
 int64 tokenId
-string component
-string predicate
-string[] parameters
-int64 planTime
+roxanne_rosjava_msgs/Token token
 uint32 commandType
 

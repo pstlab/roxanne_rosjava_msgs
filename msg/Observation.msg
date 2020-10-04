@@ -1,5 +1,3 @@
 int64 observationId
-string component
-string predicate
-string[] parameters
+roxanne_rosjava_msgs/Token token
 
