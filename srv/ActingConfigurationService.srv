@@ -1,0 +1,4 @@
+string configFilePath
+---
+int8 success
+string message
